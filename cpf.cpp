@@ -38,6 +38,6 @@ int main()
       if(D11 > 9){
         D11 = 0;
       }
-      cout<< Cpf << "-" << D10 << D11; //devolvendo o cpf com os digitos verificadores
+      cout<< Cpf << "-" << D10 << D11 << "\n"; //devolvendo o cpf com os digitos verificadores
     }
 }  
